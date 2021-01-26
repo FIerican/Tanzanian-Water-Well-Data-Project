@@ -11,7 +11,7 @@ Information source: https://www.drivendata.org/competitions/7/pump-it-up-data-mi
 
 This README.md will be the source of information for navigating through the repository.
 
-* `Mod 3 outline`: jupyter notebook with technical analysis
+* `jupyter_notebook.ipynb`: jupyter notebook with technical analysis
 * `SubmissionFormat.csv` format for submitting predictions to the DrivenData competition
 * `feature_descriptions`: descriptive explanation of column headers
 * `testing_values.csv`: the independent variables that need predictions
